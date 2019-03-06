@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/rosudavidg/MiniCAD/blob/master/example/ref/cat.png" width="100">
+</p>
 
 ```
 =========================================================================================
